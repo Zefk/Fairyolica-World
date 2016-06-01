@@ -1,4 +1,4 @@
-# Fairyolica-World
+# Fairyolica-World v1.0
 This will be a Light world like tileset I am putting together for the Solarus Engine. It is coming close to completion.  
 It is quite large and it is free under CC-BY-SA 3.0
 
