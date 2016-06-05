@@ -1,7 +1,10 @@
 # Fairyolica-World v1.0 Outside/Exterior
 This will be a Light world like tileset I am putting together for the Solarus Engine. The outside world is coming close to completion.  
 
-It is quite large and it is free under CC-BY-SA 3.0
+**License:**
+The Fairyolica World is free under CC-BY-SA 3.0
+
+Please share back edits or fork this, so I can add your contributions.
 
 #Status: Packaging process beginning 5-28-16 for v1.0 
 
