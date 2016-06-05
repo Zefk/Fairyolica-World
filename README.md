@@ -10,6 +10,7 @@ Please share back edits or fork this, so I can add your contributions.
 **Reports:**
 
 Post issues in the issue section. You will need a github account. It is free afterall.
+
 https://github.com/Zefk/Fairyolica-World/issues
 
 **Status:** 
