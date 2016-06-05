@@ -1,4 +1,4 @@
-CC-BY-SA 3.0
+**CC-BY-SA 3.0**
 
 You are free to:
 
