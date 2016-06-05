@@ -2,6 +2,7 @@
 This will be a Light world like tileset I am putting together for the Solarus Engine. The outside world is coming close to completion.  
 
 **License:** 
+
 The Fairyolica World is free under CC-BY-SA 3.0
 
 Please share back edits or fork this, so I can add your contributions.
