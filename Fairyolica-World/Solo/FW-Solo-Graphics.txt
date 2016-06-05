@@ -1,0 +1,3 @@
+This is a solo package just for the Fairyolica World graphics. 
+
+Do not mistake this with the orginal tilesets the creators made.
