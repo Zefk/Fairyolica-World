@@ -1,3 +1,5 @@
+CC-BY-SA 3.0
+
 You are free to:
 
 Share — copy and redistribute the material in any medium or format
@@ -6,3 +8,5 @@ for any purpose, even commercially.
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
 https://creativecommons.org/licenses/by-sa/3.0/us/
+
+Please link back because will help to improve this tileset.
