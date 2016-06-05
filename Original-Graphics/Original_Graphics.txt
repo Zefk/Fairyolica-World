@@ -1,0 +1,3 @@
+This is the orginal graphics and tilesets used to make the Fairyolica World tileset. 
+
+Check the license files for the correct license to use. Not all of these are CC-BY-SA 3.0
