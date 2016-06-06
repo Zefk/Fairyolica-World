@@ -1,0 +1,5 @@
+The work file formats are kra, psd, and xcf. They contain the Fairyolica World outside tileset v1.0
+
+.kra = Krita
+.psd = Photoshop
+.xcf = Gimp
