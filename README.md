@@ -33,4 +33,6 @@ Later Releases:
 
 -v1.6 Font .tff packages
 
+#Outside/Exterior
+
 ![Fairyolica World Progress](http://s33.postimg.org/5vwatpy6n/Fairyolica_World_tiles.png)
