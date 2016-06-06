@@ -24,9 +24,13 @@ Next Release: v1.1 Plain Dungeon
 Later Releases:
 
 -v1.2 Dungeon Skinning and texturing
+
 -v1.3 Inside House tiles or interior
+
 -v1.4 Tileset entities
+
 -v1.5 Sprite characters
+
 -v1.6 Font .tff packages
 
 ![Fairyolica World Progress](http://s33.postimg.org/5vwatpy6n/Fairyolica_World_tiles.png)
