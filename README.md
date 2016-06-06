@@ -17,4 +17,4 @@ https://github.com/Zefk/Fairyolica-World/issues
 
 Packaging process beginning 6-12-16 for v1.0 
 
-![Fairyolica World Progress](http://s33.postimg.org/7ok0lklnj/Fairyolica_World_tiles.png)
+![Fairyolica World Progress](http://s33.postimg.org/5vwatpy6n/Fairyolica_World_tiles.png)
