@@ -33,6 +33,8 @@ Later Releases:
 
 -v1.6 Font .tff packages
 
+-v1.7 Scripts - This will be pseudocode like code. I have not decided on actually correcting the syntax or making the scripts function.
+
 #Outside/Exterior
 
 ![Fairyolica World Progress](http://s33.postimg.org/5vwatpy6n/Fairyolica_World_tiles.png)
