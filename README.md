@@ -1,4 +1,6 @@
 # Fairyolica-World v1.0 Outside/Exterior
+
+**About:**
 This will be a Light world like tileset I am putting together for the Solarus Engine as a hobby. The outside world is completed, but progress will slow down because of my many other hobbies. I normally work on this project during the weekend.
 
 **License:** 
