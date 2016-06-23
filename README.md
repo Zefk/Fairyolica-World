@@ -17,11 +17,13 @@ https://github.com/Zefk/Fairyolica-World/issues
 
 **Status:** 
 
-Fairolica World outside v1.0 Complete
+-Fairolica World outside v1.0 [Complete]
 
-Next Release: v1.1 Plain Dungeon
+**Next Release:** 
 
-Later Releases:
+v1.1 Plain Dungeon
+
+**Later Releases:**
 
 -v1.2 Dungeon Skinning and texturing
 
