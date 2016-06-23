@@ -3,7 +3,9 @@ This will be a Light world like tileset I am putting together for the Solarus En
 
 **License:** 
 
-The Fairyolica World is free under CC-BY-SA 3.0 That means it is free for commercial and non-commercial use.
+The Fairyolica World is free under CC-BY-SA 3.0 
+
+That means it is free for commercial and non-commercial use.
 
 Please share back edits or fork this, so I can add your contributions.
 
