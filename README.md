@@ -16,9 +16,9 @@ Please share back edits or fork this, so I can add your contributions.
 
 Post issues in the issue section. You will need a github account. It is free afterall.
 
-Bugs are fixed after completion of a version. That means all bugs reported for v1.0 will be fixed in v1.1 or if others wish to fix the issues, then there will be minor releases like v1.0.1, v1.0.2, etc. Those would mean only bug fixes.
-
 https://github.com/Zefk/Fairyolica-World/issues
+
+Bugs are fixed after completion of a version. That means all bugs reported for v1.0 will be fixed in v1.1 or if others wish to fix the issues, then there will be minor releases like v1.0.1, v1.0.2, etc. Those would mean only bug fixes.
 
 **Status:** 
 
