@@ -43,7 +43,7 @@ Copyright/Attribution Notice:
 -Credit Buch for the original version of this set and link to his profile page. The portcullis are based on the iron bars in http://opengameart.org/content/lpc-dungeon-elements, by Sharm as contributed by William.Thompsonj.
 
 ------------------------------------------------------------------------
-[CC-BY 3.0 Credit by their terms and share artwork under the same terms]
+[CC-BY-SA 3.0 Credit by their terms and share artwork under the same terms]
 ------------------------------------------------------------------------
 -interdimensional_ <http://interdimensional.space/>
 -attribute this to Jerom. I just added some colors. Put Eiyeron or @Eiyeron.
@@ -52,6 +52,7 @@ Copyright/Attribution Notice:
 -"420 pixel art icons" from 7Souls (http://7soul1.deviantart.com/?rnrd=74632),
 -"32x32 Fantasy Tileset" from Jerom (http://opengameart.org/content/32x32-fantasy-tileset).
 -"Crawl Tiles" from Dungeon Crawl Stone Soup (https://code.google.com/p/crawl-tiles/)
+-Zefk (Zane Kukta)
 
 ---------------------------------
 [CC-BY 3.0 Credit by their terms]
