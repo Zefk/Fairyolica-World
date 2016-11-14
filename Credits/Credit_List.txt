@@ -1,13 +1,15 @@
------
-About
------
-===============================================================================================================================================
-The dash "-" means it is a person and the way they want to be credited. This is organized by license type. cc0, cc-by, etc. CC0 is not required for crediting, but I added them anyway. Go into the files for more detailed credits for each folder with related links. Yes, all these licenses are compatible with each other, but the end result is CC-BY-SA 3.0
-
-I refined this list a little. 11-14-16 [Novemeber 14th, 2016]
-
-Note: "************************************************************************************" Means that I/you have to search in the folders. I might slowly refine this list over time. One has to look through in art in the orginal graphics. I am a bit busy at the moment, so sorry for typos.
-================================================================================================================================================
+------
+About:
+------
+============================================================================================================================
+1.The dash "-" means it is a person and the way they want to be credited. 
+2.This is organized by license type. CC0, CC-BY 3.0, CC-BY-SA 3.0. 
+3.CC0 is not required for crediting, but I added them anyway. 
+4.Go into the orginal graphics for more detailed credits for each folder with related links. 
+5.Yes, all these licenses are compatible with each other, but the end result is CC-BY-SA 3.0 
+and you must credit everyone if you use the Fariyolica png. That means the CC0 people too.
+6.I refined this list a little. 11-14-16 [Novemeber 14th, 2016]
+============================================================================================================================
 
 -----------------------
 Credit
@@ -41,6 +43,7 @@ Copyright/Attribution Notice:
 -credit me as Buch (Michele Bucelli) and link back to my OGA profile page. <http://opengameart.org/users/buch>
 -Stephen Challener and the Open Surge team ( http://opensnc.sourceforge.net), hosted by OpenGameArt.org
 -Credit Buch for the original version of this set and link to his profile page. The portcullis are based on the iron bars in http://opengameart.org/content/lpc-dungeon-elements, by Sharm as contributed by William.Thompsonj.
+-Animated Castle Doors by by Tuomo Untinen
 
 ------------------------------------------------------------------------
 [CC-BY-SA 3.0 Credit by their terms and share artwork under the same terms]
@@ -52,36 +55,5 @@ Copyright/Attribution Notice:
 -"420 pixel art icons" from 7Souls (http://7soul1.deviantart.com/?rnrd=74632),
 -"32x32 Fantasy Tileset" from Jerom (http://opengameart.org/content/32x32-fantasy-tileset).
 -"Crawl Tiles" from Dungeon Crawl Stone Soup (https://code.google.com/p/crawl-tiles/)
--Zefk (Zane Kukta)
-
----------------------------------
-[CC-BY 3.0 Credit by their terms]
----------------------------------
-
--"folder name" by Tuomo Untinen
------------------------
-Credit
------------------------ 
-Copyright/Attribution Notice: 
-
-"folder name" by Tuomo Untinen ************************************************************************************************** probably in a folder called "reemax". That is not the name of the folder though. I have to look through in art in the orginal graphics.
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/reemax
-
-------------------------------------------------------------------------
-[CC-BY 3.0 Credit by their terms and share artwork under the same terms]
-------------------------------------------------------------------------
------------------------
-Credit
------------------------ 
-Attribution Instructions:
-
-See Attribution.txt************************************************************************************ probably in a folder called "adrix89"
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/adrix89
+-Zefk (Zane Kukta) <http://zelzec-entertainment.weebly.com/>
+-Lanea Zimmerman (AKA Sharm)
