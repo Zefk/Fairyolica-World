@@ -1,595 +1,86 @@
-----------------------
-License
-----------------------
+-----
+About
+-----
+===============================================================================================================================================
+The dash "-" means it is a person and the way they want to be credited. This is organized by license type. cc0, cc-by, etc. CC0 is not required for crediting, but I added them anyway. Go into the files for more detailed credits for each folder with related links. Yes, all these licenses are compatible with each other, but the end result is CC-BY-SA 3.0
 
-CC0 Public Domain - Commercial and non-commercial use.
+I refined this list a little. 11-14-16 [Novemeber 14th, 2016]
 
------------------------
-Credit
------------------------ 
-Copyright/Attribution Notice: 
-
-Jetrel <http://www.frogatto.com/>
--Frogatto & Friends - bitmap fonts
--Old Frogatto tile art-3
--Japanese buildings - isometric strategy game mockup
-
--------------------------------------------------
-Everything else is by Guido Bos and with some Jetrel collaboration <http://neoriceisgood.deviantart.com/>
-
-Not required, but we'd appreciated it if you attributed it to the Frogatto & Friends team - www.frogatto.com
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/marcavis
-
-----------------------
-License
-----------------------
-
-CC0 Public Domain - Commercial and non-commercial use.
- 
------------------------
-Credit
------------------------ 
-Copyright/Attribution Notice: 
-
-Ogrebane
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/ogrebane
-
-----------------------
-License
-----------------------
-
-CC0 Public Domain - Commercial and non-commercial use.
- 
------------------------
-Credit
------------------------ 
-Copyright/Attribution Notice: 
-
-NOT REQUIRED, but appreciated: credit me as Buch (Michele Bucelli) and link back to my OGA profile page. <http://opengameart.org/users/buch>
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/buch
-
-----------------------
-License
-----------------------
-
-CC0 Public Domain - Commercial and non-commercial use.
- 
------------------------
-Credit
------------------------ 
-Copyright/Attribution Notice: 
-
-Feel free to use it for anything, you can even make profit. If you want please give me credit for the tile though as 'Hyptosis' or link to www.lorestrome.com if you want. But you're not obligated to. Everyone should be able to make games, I hope these help.
-
-You owe me nothing maybe short of a free copy of your game when it is finished! Edit these, do whatever you want with them!
-
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/hyptosis
-
-----------------------
-License
-----------------------
-
-CC0 Public Domain - Commercial and non-commercial use.
- 
------------------------
-Credit
------------------------ 
-Copyright/Attribution Notice: 
-
-Original artwork done by Matthew Weekes (https://www.facebook.com/matwekpixel/, https://twitter.com/matwekpixel) but copyright owned by me (abetusk).  If you use this artwork there is no attribution required (CC0).
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/abetusk
-
-----------------------
-License
-----------------------
-
-CC0 Public Domain - Commercial and non-commercial use.
- 
------------------------
-Credit
------------------------ 
-Copyright/Attribution Notice: 
-
-CDmir
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/cdmir
-
-----------------------
-License
-----------------------
-
-CC0 Public Domain - Commercial and non-commercial use.
- 
------------------------
-Credit
------------------------ 
-Copyright/Attribution Notice: 
-rubberduck
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/rubberduck
-
-----------------------
-License
-----------------------
-
-CC0 Public Domain - Commercial and non-commercial use.
- 
------------------------
-Credit
------------------------ 
-Copyright/Attribution Notice: 
-
-NOT REQUIRED, but if you want you can attribute "Russpuppy http://russpuppy.com" I would love to hear about it if you end up using any of this for in your projects (also not required)
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/russpuppy
-
-----------------------
-License
-----------------------
-
-CC0 Public Domain - Commercial and non-commercial use.
- 
------------------------
-Credit
------------------------ 
-Copyright/Attribution Notice: 
-
-Feel free to use it for anything, you can even make profit. If you want please give me credit for the tile though as 'Hyptosis' or link to www.lorestrome.com if you want. But you're not obligated to. Everyone should be able to make games, I hope these help.
-
-You owe me nothing maybe short of a free copy of your game when it is finished! Edit these, do whatever you want with them!
-
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/hyptosis
-
-----------------------
-License
-----------------------
-
-CC-BY 3.0 - Commercial and non-commercial use.
-
-----------------------
-Blender Version
-----------------------
-Unknown
+Note: "************************************************************************************" Means that I/you have to search in the folders. I might slowly refine this list over time. One has to look through in art in the orginal graphics. I am a bit busy at the moment, so sorry for typos.
+================================================================================================================================================
 
 -----------------------
 Credit
 ----------------------- 
 Copyright/Attribution Notice: 
 
-"folder name" by Tuomo Untinen
+-------------------
+[CC0 Public Domain]
+-------------------
+-Jetrel <http://www.frogatto.com/>
+-Guido Bos
+-Ogrebane
+-Buch (Michele Bucelli) <http://opengameart.org/users/buch>
+-'Hyptosis' <www.lorestrome.com> [Maybe a free copy fo your game]
+-artwork by Matthew Weekes (https://www.facebook.com/matwekpixel/, https://twitter.com/matwekpixel), but copyright (abetusk).
+-CDmir
+-rubberduck
+-"Russpuppy http://russpuppy.com" [would love to hear about your game]
+
+---------------------------------
+[CC-BY 3.0 Credit by their terms]
+---------------------------------
+-Stephen Challener and the Open Surge team ( http://opensnc.sourceforge.net), hosted by OpenGameArt.org
+-Stephen Challener (Redshrike), hosted/commissioned by OpenGameArt.org
+-Leonard Pabin
+-Lionx_Dagger
+-Copyright 2008 Jordan Trudgett | http://jordan.trudgett.com/
+-knunery
+-Albert Manhattan - A redrawing of surt's Classical Ruin Tiles (http://opengameart.org/content/classical-ruin-tiles) at higher resolution.
+-Ivan Voirol - butterflies are CC0 and CC-BY
+-credit me as Buch (Michele Bucelli) and link back to my OGA profile page. <http://opengameart.org/users/buch>
+-Stephen Challener and the Open Surge team ( http://opensnc.sourceforge.net), hosted by OpenGameArt.org
+-Credit Buch for the original version of this set and link to his profile page. The portcullis are based on the iron bars in http://opengameart.org/content/lpc-dungeon-elements, by Sharm as contributed by William.Thompsonj.
+
+------------------------------------------------------------------------
+[CC-BY 3.0 Credit by their terms and share artwork under the same terms]
+------------------------------------------------------------------------
+-interdimensional_ <http://interdimensional.space/>
+-attribute this to Jerom. I just added some colors. Put Eiyeron or @Eiyeron.
+-DawnBringer (http://www.pixeljoint.com/forum/forum_posts.asp?TID=12795)
+-(PriorBlue [Marcus Ihde])
+-"420 pixel art icons" from 7Souls (http://7soul1.deviantart.com/?rnrd=74632),
+-"32x32 Fantasy Tileset" from Jerom (http://opengameart.org/content/32x32-fantasy-tileset).
+-"Crawl Tiles" from Dungeon Crawl Stone Soup (https://code.google.com/p/crawl-tiles/)
+
+---------------------------------
+[CC-BY 3.0 Credit by their terms]
+---------------------------------
+
+-"folder name" by Tuomo Untinen
+-----------------------
+Credit
+----------------------- 
+Copyright/Attribution Notice: 
+
+"folder name" by Tuomo Untinen ************************************************************************************************** probably in a folder called "reemax". That is not the name of the folder though. I have to look through in art in the orginal graphics.
 
 ---------------------------------------------
 Related link:
 ---------------------------------------------
 http://opengameart.org/users/reemax
 
-
-----------------------
-License
-----------------------
-
-CC-BY 3.0 - Commercial and non-commercial use.
-
-----------------------
-Blender Version
-----------------------
-Unknown
-
------------------------
-Credit
------------------------ 
-Copyright/Attribution Notice: 
-
-Stephen Challener and the Open Surge team ( http://opensnc.sourceforge.net), hosted by OpenGameArt.org
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/redshrike
-
-
-----------------------
-License
-----------------------
-
-CC-BY 3.0 - Commercial and non-commercial use.
-
-----------------------
-Blender Version
-----------------------
-Unknown
-
------------------------
-Credit
------------------------ 
-Copyright/Attribution Notice: 
-
-Art by Stephen Challener (Redshrike), hosted/commissioned by OpenGameArt.org
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/redshrike
-
-
-----------------------
-License
-----------------------
-
-CC-BY 3.0 - Commercial and non-commercial use.
-
-----------------------
-Blender Version
-----------------------
-Unknown
-
------------------------
-Credit
------------------------ 
-Copyright/Attribution Notice: 
-
-By Leonard Pabin
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/leonard-pabin
-
-
-----------------------
-License
-----------------------
-
-CC-BY 3.0 - Commercial and non-commercial use.
-
-----------------------
-Blender Version
-----------------------
-Unknown
-
------------------------
-Credit
------------------------ 
-Copyright/Attribution Notice: 
-
-Lionx_Dagger
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/lionxdagger
-
-
-----------------------
-License
-----------------------
-
-CC-BY 3.0 - Commercial and non-commercial use.
-
-----------------------
-Blender Version
-----------------------
-Unknown
-
------------------------
-Credit
------------------------ 
-Copyright/Attribution Notice: 
-
-Copyright 2008 Jordan Trudgett | http://jordan.trudgett.com/ - Licensed under CC BY 3.0 http://creativecommons.org/licenses/by/3.0/
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/qubodup
-
-
-----------------------
-License
-----------------------
-
-CC-BY 3.0 - Commercial and non-commercial use.
-
-----------------------
-Blender Version
-----------------------
-Unknown
-
------------------------
-Credit
------------------------ 
-Copyright/Attribution Notice: 
-
-By Leonard Pabin
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/leonard-pabin
-
-
-----------------------
-License
-----------------------
-
-CC-BY 3.0 - Commercial and non-commercial use.
-
-----------------------
-Blender Version
-----------------------
-Unknown
-
------------------------
-Credit
------------------------ 
-Copyright/Attribution Notice: 
-
-knunery
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/knunery
-
-
-----------------------
-License
-----------------------
-
-CC-BY 3.0 - Commercial and non-commercial use.
-
-----------------------
-Blender Version
-----------------------
-Unknown
-
------------------------
-Credit
------------------------ 
-Copyright/Attribution Notice: 
-
-Albert Manhattan - A redrawing of surt's Classical Ruin Tiles (http://opengameart.org/content/classical-ruin-tiles) at higher resolution.
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/albert-manhattan
-
-
-----------------------
-License
-----------------------
-
-CC-BY 3.0 - Commercial and non-commercial use.
-
-----------------------
-Blender Version
-----------------------
-Unknown
-
------------------------
-Credit
------------------------ 
-Copyright/Attribution Notice: 
-
-Ivan Voirol - butterflies are CC0 and CC-BY
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/silver-iv
-
-
-----------------------
-License
-----------------------
-
-CC-BY 3.0 - Commercial and non-commercial use.
-
-----------------------
-Blender Version
-----------------------
-Unknown
-
------------------------
-Credit
------------------------ 
-Copyright/Attribution Notice: 
-
-credit me as Buch (Michele Bucelli) and link back to my OGA profile page. <http://opengameart.org/users/buch>
-
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/buch
-
-
-----------------------
-License
-----------------------
-
-CC-BY 3.0 - Commercial and non-commercial use.
-
-----------------------
-Blender Version
-----------------------
-Unknown
-
------------------------
-Credit
------------------------ 
-Copyright/Attribution Notice: 
-
-Stephen Challener and the Open Surge team ( http://opensnc.sourceforge.net), hosted by OpenGameArt.org
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/redshrike
-
-
-----------------------
-License
-----------------------
-
-CC-BY 3.0 - Commercial and non-commercial use.
-
-----------------------
-Blender Version
-----------------------
-Unknown
-
------------------------
-Credit
------------------------ 
-Copyright/Attribution Notice: 
-
-Credit Buch for the original version of this set and link to his profile page. The portcullis are based on the iron bars in http://opengameart.org/content/lpc-dungeon-elements, by Sharm as contributed by William.Thompsonj.
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/evert
-
-
-----------------------
-License
-----------------------
-
-CC-BY-SA 3.0 - Commercial and non-commercial use.
-
-Share edits of the art.
-
-----------------------
-Blender Version
-----------------------
-Unknown
-
+------------------------------------------------------------------------
+[CC-BY 3.0 Credit by their terms and share artwork under the same terms]
+------------------------------------------------------------------------
 -----------------------
 Credit
 ----------------------- 
 Attribution Instructions:
 
-interdimensional_ <http://interdimensional.space/>
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/interdimensional
-
-----------------------
-License
-----------------------
-
-CC-BY-SA 3.0 - Commercial and non-commercial use.
-
-Share edits of the art.
-
-----------------------
-Blender Version
-----------------------
-Unknown
-
------------------------
-Credit
------------------------ 
-Attribution Instructions:
-
-See Attribution.txt
+See Attribution.txt************************************************************************************ probably in a folder called "adrix89"
 
 ---------------------------------------------
 Related link:
 ---------------------------------------------
 http://opengameart.org/users/adrix89
-
-----------------------
-License
-----------------------
-
-CC-BY-SA 3.0 - Commercial and non-commercial use.
-
-Share edits of the art.
-
-----------------------
-Blender Version
-----------------------
-Unknown
-
------------------------
-Credit
------------------------ 
-Attribution Instructions:
-
-Principally attribute this to Jerom. I just added some colors. Put Eiyeron or @Eiyeron.
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/eiyeron
-
-----------------------
-License
-----------------------
-
-CC-BY-SA 3.0 - Commercial and non-commercial use.
-
-Share edits of the art.
-
-----------------------
-Blender Version
-----------------------
-Unknown
-
------------------------
-Credit
------------------------ 
-Attribution Instructions:
-
-After i saw the brilliant 16 color palette from DawnBringer (http://www.pixeljoint.com/forum/forum_posts.asp?TID=12795), i had the idea to recolor "all" available items, skills, tiles, etc. which are under a free licence.
-
-At the moment I (PriorBlue [Marcus Ihde]) use a few of my own sprites,
-
-the "420 pixel art icons" from 7Souls (http://7soul1.deviantart.com/?rnrd=74632),
-
-"32x32 Fantasy Tileset" from Jerom (http://opengameart.org/content/32x32-fantasy-tileset).
-
-and "Crawl Tiles" from Dungeon Crawl Stone Soup (https://code.google.com/p/crawl-tiles/)
-
----------------------------------------------
-Related link:
----------------------------------------------
-http://opengameart.org/users/macro
