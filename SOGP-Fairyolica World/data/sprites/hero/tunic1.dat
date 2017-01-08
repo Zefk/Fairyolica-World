@@ -1,0 +1,22 @@
+animation{
+  name = "stopped",
+  src_image = "hero/tunic1.png",
+  directions = {
+    { x = 77, y = 25, frame_width = 25, frame_height = 25, origin_x = 12, origin_y = 25 },
+    { x = 75, y = 0, frame_width = 25, frame_height = 25, origin_x = 12, origin_y = 25 },
+    { x = 72, y = 75, frame_width = 25, frame_height = 25, origin_x = 12, origin_y = 25 },
+    { x = 73, y = 50, frame_width = 25, frame_height = 25, origin_x = 12, origin_y = 25 },
+  },
+}
+animation{
+  name = "walking",
+  src_image = "hero/tunic1.png",
+  frame_delay = 100,
+  frame_to_loop_on = 2,
+  directions = {
+    { x = 1, y = 25, frame_width = 25, frame_height = 25, origin_x = 12, origin_y = 25, num_frames = 4 },
+    { x = 1, y = 0, frame_width = 25, frame_height = 25, origin_x = 12, origin_y = 25, num_frames = 4 },
+    { x = 0, y = 75, frame_width = 25, frame_height = 25, origin_x = 12, origin_y = 29, num_frames = 4 },
+    { x = 0, y = 50, frame_width = 25, frame_height = 25, origin_x = 12, origin_y = 25, num_frames = 4 },
+  },
+}
