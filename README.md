@@ -1,8 +1,10 @@
-# Fairyolica-World v1.0 Outside/Exterior
+# Fairyolica-World v0.1 Outside/Exterior
 
 **About:**
 
-This will be a Light world like tileset I am putting together for the Solarus Engine as a hobby. The outside world is completed, but progress will slow down because of my many other hobbies. I normally work on this project during the weekend.
+This will be a tileset I am putting together for the Solarus Engine as a hobby. The outside world is completed, but progress will slow down because of my many other hobbies.  It is quite large and it is free under CC-BY-SA 3.0
+
+My only plan was to make an outside world, but that changed because I want setup more graphics for this package. That is why it is now alpha instead of beta.
 
 **License:** 
 
@@ -26,21 +28,21 @@ Bugs are fixed after completion of a version. That means all bugs reported for v
 
 **Next Release:** 
 
-v1.1 Plain Dungeon
+v0.1 Plain Dungeon
 
 **Later Releases:**
 
--v1.2 Dungeon Skinning and texturing
+-v0.2 Dungeon Skinning and texturing
 
--v1.3 Inside House tiles or interior
+-v0.3 Inside House tiles or interior
 
--v1.4 Tileset entities
+-v0.4 Tileset entities
 
--v1.5 Sprite characters
+-v0.5 Sprite characters
 
--v1.6 Font .tff packages
+-v0.6 Font .tff packages
 
--v1.7 Scripts - This will be pseudocode like code. I have not decided on actually correcting the syntax or making the scripts function.
+-v0.7 Scripts - This will be pseudocode like code. I have not decided on actually correcting the syntax or making the scripts function.
 
 #Outside/Exterior
 
