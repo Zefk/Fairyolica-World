@@ -9,4 +9,4 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 https://creativecommons.org/licenses/by-sa/3.0/us/
 
-Please link back because will help to improve this tileset.
+Please link back because will help to improve this tileset and make sure to credit those in the `Credit_List.txt`
