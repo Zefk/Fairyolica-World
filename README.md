@@ -8,7 +8,7 @@ My only plan was to make an outside world, but that changed because I want setup
 
 **Contact:**
 
-Contact me on the Solarus forum or make an issue if you want to help with this project.
+Contact me on the Solarus forum or make an issue if you want to help with this project. I can give you the resources. All you have to do is set them up. You can check out a few chapters in a book I am making to help you. [Chapter-3](https://github.com/Zefk/Solarus-ARPG-Game-Development-Book_2/blob/master/seperated_chapters/done/6_chapter-3.md), [Chapter-4](https://github.com/Zefk/Solarus-ARPG-Game-Development-Book_2/blob/master/seperated_chapters/done/7_chapter-4.md), [Chapter-5](https://github.com/Zefk/Solarus-ARPG-Game-Development-Book_2/blob/master/seperated_chapters/done/8_chapter-5.md), and [Chapter-11](https://github.com/Zefk/Solarus-ARPG-Game-Development-Book_2/blob/master/seperated_chapters/done/14_chapter-11.md).
 
 http://forum.solarus-games.org/index.php?action=profile;u=440
 
