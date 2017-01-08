@@ -6,6 +6,12 @@ This will be a tileset I am putting together for the Solarus Engine as a hobby. 
 
 My only plan was to make an outside world, but that changed because I want setup more graphics for this package. That is why it is now alpha instead of beta.
 
+**Contact:**
+
+Contact me on the Solarus forum or make an issue if you want to help with this project.
+
+http://forum.solarus-games.org/index.php?action=profile;u=440
+
 **License:** 
 
 The Fairyolica World is free under CC-BY-SA 3.0 
