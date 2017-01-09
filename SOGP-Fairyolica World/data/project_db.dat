@@ -1,7 +1,9 @@
 map{ id = "Inside store", description = "Already built tiles" }
+map{ id = "pixel art", description = "making sprite" }
 
 tileset{ id = "DawnBringer 16 color", description = "DawnBringer 16 color" }
 tileset{ id = "Fairyolica World", description = "Faryolica World - A light world like tileset" }
+tileset{ id = "light_world", description = "Light it up!" }
 
 sprite{ id = "enemies/enemy_killed", description = "Enemy killed" }
 sprite{ id = "entities/arrow", description = "Arrow" }
@@ -603,5 +605,8 @@ font{ id = "Pix3M/Romulus", description = "Pix3M/Romulus" }
 font{ id = "Playtime/PlaytimeOblique", description = "Playtime/PlaytimeOblique" }
 font{ id = "Playtime/PlaytimeWithHotToddies3D", description = "Playtime/PlaytimeWithHotToddies3D" }
 font{ id = "Playtime/playtime", description = "Playtime/playtime" }
+font{ id = "goudy-bookletter/goudy_bookletter_1911-webfont", description = "goudy-bookletter/goudy_bookletter_1911-webfont" }
+font{ id = "junction/junction-regular", description = "junction/junction-regular" }
 font{ id = "minecraftia", description = "minecraftia" }
+font{ id = "prociono/Prociono", description = "prociono/Prociono" }
 
