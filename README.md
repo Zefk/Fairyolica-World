@@ -2,7 +2,7 @@
 
 **About:**
 
-This is a graphic pack that I am putting together for the Solarus Engine as a hobby. The outside world is completed, but progress will slow down because of my many other hobbies. It is quite large and it is free under CC-BY-SA 3.0 unless marked otherwise here. Some sprites are just free and I do not have the rights to change their license, but they can still be in the Fairyolica World pack.
+This is a graphic pack that I am putting together for the Solarus Engine as a hobby. The outside world is completed, but progress will slow down because of my many other hobbies. It is quite large and most of it is free under CC-BY-SA 3.0 unless marked otherwise here. Some sprites are just free and I do not have the rights to change their license, but they can still be in the Fairyolica World pack.
 
 My only plan was to make an outside world, but that changed because I want setup more graphics for this package. That is why it is now alpha instead of beta.
 
