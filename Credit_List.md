@@ -1,6 +1,6 @@
 ##Faryolica World Credits:
 
-The Fariryolica world tileset is under CC-BY-SA 3.0.
+The Fariryolica world tileset is mostly under CC-BY-SA 3.0. Unless marked otherwise here. Some sprites are just free and I do not have the rights to change their license, but they can still be in the Fairyolica World pack.
 
 ###About:
 
