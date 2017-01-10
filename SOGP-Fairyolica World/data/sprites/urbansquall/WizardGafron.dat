@@ -1,0 +1,10 @@
+animation{
+  name = "stopped",
+  src_image = "urbansquall/Wizard.png",
+  directions = {
+    { x = 0, y = 96, frame_width = 24, frame_height = 48, origin_x = 12, origin_y = 46 },
+    { x = 0, y = 144, frame_width = 24, frame_height = 48, origin_x = 12, origin_y = 46 },
+    { x = 0, y = 48, frame_width = 24, frame_height = 48, origin_x = 12, origin_y = 46 },
+    { x = 0, y = 0, frame_width = 24, frame_height = 48, origin_x = 12, origin_y = 46 },
+  },
+}
