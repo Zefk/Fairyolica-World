@@ -1,5 +1,4 @@
 map{ id = "Inside store", description = "Already built tiles" }
-map{ id = "pixel art", description = "making sprite" }
 
 tileset{ id = "DawnBringer 16 color", description = "DawnBringer 16 color" }
 tileset{ id = "Fairyolica World", description = "Faryolica World - A light world like tileset" }
@@ -28,6 +27,13 @@ sprite{ id = "hero/sword_stars1", description = "Hero sword stars 1" }
 sprite{ id = "hero/trail", description = "Hero trail" }
 sprite{ id = "hero/tunic1", description = "Hero tunic 1" }
 sprite{ id = "menus/solarus_logo", description = "Solarus logo" }
+sprite{ id = "urbansquall/FemaleOrange", description = "FemaleOrange" }
+sprite{ id = "urbansquall/FemalePink", description = "FemalePink" }
+sprite{ id = "urbansquall/KingDarfane", description = "KingDarfane" }
+sprite{ id = "urbansquall/KnightAni", description = "KnightAni" }
+sprite{ id = "urbansquall/PrincessGatina", description = "PrincessGatina" }
+sprite{ id = "urbansquall/PrincessRani", description = "PrincessRani" }
+sprite{ id = "urbansquall/WizardGafron", description = "WizardGafron" }
 
 music{ id = "Open Source Pack/001Alexander Ehlers - Free Music Pack/Alexander_Ehlers_-_Doomed", description = "Doomed - Music by Alexander Ehlers" }
 music{ id = "Open Source Pack/001Alexander Ehlers - Free Music Pack/Alexander_Ehlers_-_Flags", description = "Flags - Music by Alexander Ehlers" }
