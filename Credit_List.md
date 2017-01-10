@@ -93,8 +93,25 @@ Copyright/Attribution Notice
 
 - Urbansquall <http://web.archive.org/web/20110225070311/http://www.gamepoetry.com/blog/2008/06/27/free-rpg-tilesheets/>
 
-###Graphics Credits:
+###Audio Credits:
 
 Copyright/Attribution Notice
 
-Coming soon.
+####[CC-BY 3.0 Credit by their terms]
+
+- copyc4t (Paolo D'Emilio) <http://opengameart.org/users/copyc4t>
+- Elerya <http://opengameart.org/users/elerya>
+- Android128 (android128ya@ya.ru) <http://opengameart.org/users/android128>
+- Alexandr Zhelanov, https://soundcloud.com/alexandr-zhelanov
+- Cleyton R. Xavier - http://opengameart.org/users/doppelganger
+
+####[CC0 Public Domain]
+
+- Alexander Ehlers <http://opengameart.org/users/tricksntraps>
+- Controllerhead <http://opengameart.org/users/controllerhead>
+
+####[CC-BY-SA 3.0 Credit by their terms and share artwork under the same terms]
+
+- Aosi <http://momentsofelation.wordpress.com/>
+- Zefk (Zane Kukta) <http://zelzec-entertainment.weebly.com/>
+
