@@ -4,6 +4,14 @@ tileset{ id = "DawnBringer 16 color", description = "DawnBringer 16 color" }
 tileset{ id = "Fairyolica World", description = "Faryolica World - A light world like tileset" }
 tileset{ id = "light_world", description = "Light it up!" }
 
+sprite{ id = "Critter Pack/Bat", description = "Bat" }
+sprite{ id = "Critter Pack/Chicken", description = "Chicken" }
+sprite{ id = "Critter Pack/Monster", description = "Monster" }
+sprite{ id = "Critter Pack/Rabbit", description = "Rabbit" }
+sprite{ id = "Critter Pack/Rat", description = "Rat" }
+sprite{ id = "Critter Pack/Skeleton", description = "Skeleton" }
+sprite{ id = "Critter Pack/Spider", description = "Spider" }
+sprite{ id = "Critter Pack/WhiteSlime", description = "WhiteSlime" }
 sprite{ id = "enemies/enemy_killed", description = "Enemy killed" }
 sprite{ id = "entities/arrow", description = "Arrow" }
 sprite{ id = "entities/block", description = "Block" }
