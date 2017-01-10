@@ -1,8 +1,8 @@
-###Faryolica World Credits:
+##Faryolica World Credits:
 
 The Fariryolica world tileset is under CC-BY-SA 3.0.
 
-####About:
+###About:
 
 ============================================================================================================================
 1.The bullet "•" means it is a person and the way they want to be credited.
@@ -17,9 +17,9 @@ The Fariryolica world tileset is under CC-BY-SA 3.0.
 
 6.I refined this list a little. 11-14-16 [Novemeber 14th, 2016]
 
-####Credit
+###Graphics Credits:
 
-Copyright/Attribution Notice: 
+Copyright/Attribution Notice
 
 ####[CC0 Public Domain]
 
@@ -88,3 +88,13 @@ Copyright/Attribution Notice:
 - Zefk (Zane Kukta) <http://zelzec-entertainment.weebly.com/>
 
 - Lanea Zimmerman (AKA Sharm)
+
+####[Free - No real license. They say, "Please let us know by dropping a comment here (though you certainly don’t have to)."]
+
+- Urbansquall <http://web.archive.org/web/20110225070311/http://www.gamepoetry.com/blog/2008/06/27/free-rpg-tilesheets/>
+
+###Graphics Credits:
+
+Copyright/Attribution Notice
+
+Coming soon.
