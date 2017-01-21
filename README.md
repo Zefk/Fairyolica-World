@@ -6,7 +6,7 @@ This is a graphic pack that I am putting together for the Solarus Engine as a ho
 
 **License:** 
 
-Most of it is free under CC-BY-SA 3.0 unless marked otherwise.
+Most of it is free under CC-BY-SA 3.0 unless [marked otherwise.](https://github.com/Zefk/Fairyolica-World/blob/master/LICENSE.md)
 
 That means it is free for commercial and non-commercial use.
 
