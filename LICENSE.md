@@ -11,6 +11,8 @@ https://creativecommons.org/licenses/by-sa/3.0/us/
 
 Please link back because will help to improve this tileset and make sure to credit those in the `Credit_List.txt`
 
-####[Free - No real license. They say, "Please let us know by dropping a comment here (though you certainly don’t have to)."]
+####[Free - No real license.]
 
-- Urbansquall <http://web.archive.org/web/20110225070311/http://www.gamepoetry.com/blog/2008/06/27/free-rpg-tilesheets/>
+They say, "Please let us know by dropping a comment here (though you certainly don’t have to)."
+
+- [Urbansquall](http://web.archive.org/web/20110225070311/http://www.gamepoetry.com/blog/2008/06/27/free-rpg-tilesheets/)
