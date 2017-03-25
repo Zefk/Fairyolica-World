@@ -16,6 +16,6 @@ Post issues in the issue section. You will need a github account. It is free aft
 
 https://github.com/Zefk/Fairyolica-World/issues
 
-#Outside/Exterior
+# Outside/Exterior
 
 ![Fairyolica World Progress](https://github.com/Zefk/Fairyolica-World/blob/master/SOGP-Fairyolica%20World/data/tilesets/Fairyolica%20World.tiles.png)
