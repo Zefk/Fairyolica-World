@@ -10,6 +10,10 @@ Most of it is free under CC-BY-SA 3.0 unless [marked otherwise.](https://github.
 
 That means it is free for commercial and non-commercial use.
 
+**Source files (The_Original_Graphics):**
+
+You can find all the opensource graphics in the `The_Original_Graphics` folder.
+
 **Reports:**
 
 Post issues in the issue section. You will need a github account. It is free afterall.
