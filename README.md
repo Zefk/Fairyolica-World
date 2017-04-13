@@ -12,7 +12,7 @@ That means it is free for commercial and non-commercial use.
 
 **Source files (The_Original_Graphics):**
 
-You can find all the opensource graphics in the `The_Original_Graphics` folder.
+You can find all the opensource graphics in the `Original_Graphics` folder.
 
 **Reports:**
 
