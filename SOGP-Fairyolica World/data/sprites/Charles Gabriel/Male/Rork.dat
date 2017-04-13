@@ -1,0 +1,43 @@
+animation{
+  name = "stopped",
+  src_image = "Charles Gabriel/Male/Rork_M_Walking.png",
+  directions = {
+    { x = 0, y = 24, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 20 },
+    { x = 0, y = 0, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 20 },
+    { x = 0, y = 72, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 20 },
+    { x = 0, y = 48, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 20 },
+  },
+}
+animation{
+  name = "attack",
+  src_image = "Charles Gabriel/Male/Rork_M_attack.png",
+  frame_delay = 180,
+  directions = {
+    { x = 0, y = 24, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 20, num_frames = 4 },
+    { x = 0, y = 0, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 20, num_frames = 4 },
+    { x = 0, y = 72, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 20, num_frames = 4 },
+    { x = 0, y = 48, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 20, num_frames = 4 },
+  },
+}
+animation{
+  name = "magic_cast",
+  src_image = "Charles Gabriel/Male/Rork_M_Magic_Cast.png",
+  frame_delay = 180,
+  directions = {
+    { x = 0, y = 24, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 20, num_frames = 5 },
+    { x = 0, y = 0, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 20, num_frames = 5 },
+    { x = 0, y = 72, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 20, num_frames = 5 },
+    { x = 0, y = 48, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 20, num_frames = 5 },
+  },
+}
+animation{
+  name = "walking",
+  src_image = "Charles Gabriel/Male/Rork_M_Walking.png",
+  frame_delay = 180,
+  directions = {
+    { x = 0, y = 24, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 20, num_frames = 3 },
+    { x = 0, y = 0, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 20, num_frames = 3 },
+    { x = 0, y = 72, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 20, num_frames = 3 },
+    { x = 0, y = 48, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 20, num_frames = 3 },
+  },
+}
