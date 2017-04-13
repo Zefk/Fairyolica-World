@@ -1,0 +1,33 @@
+animation{
+  name = "stopped",
+  src_image = "Daniel Eddeland/pig_walk.png",
+  directions = {
+    { x = 0, y = 136, frame_width = 56, frame_height = 32, origin_x = 28, origin_y = 32 },
+    { x = 0, y = 0, frame_width = 24, frame_height = 48, origin_x = 12, origin_y = 48 },
+    { x = 0, y = 96, frame_width = 56, frame_height = 32, origin_x = 28, origin_y = 32 },
+    { x = 0, y = 48, frame_width = 24, frame_height = 48, origin_x = 12, origin_y = 44 },
+  },
+}
+animation{
+  name = "eating",
+  src_image = "Daniel Eddeland/pig_eat.png",
+  frame_delay = 200,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 0, y = 144, frame_width = 64, frame_height = 32, origin_x = 28, origin_y = 32, num_frames = 4 },
+    { x = 0, y = 0, frame_width = 24, frame_height = 48, origin_x = 12, origin_y = 48, num_frames = 4 },
+    { x = 0, y = 56, frame_width = 64, frame_height = 32, origin_x = 28, origin_y = 32, num_frames = 4 },
+    { x = 0, y = 88, frame_width = 24, frame_height = 56, origin_x = 12, origin_y = 44, num_frames = 4 },
+  },
+}
+animation{
+  name = "walking",
+  src_image = "Daniel Eddeland/pig_walk.png",
+  frame_delay = 200,
+  directions = {
+    { x = 0, y = 136, frame_width = 56, frame_height = 32, origin_x = 28, origin_y = 32, num_frames = 4 },
+    { x = 0, y = 0, frame_width = 24, frame_height = 48, origin_x = 12, origin_y = 48, num_frames = 4 },
+    { x = 0, y = 96, frame_width = 56, frame_height = 32, origin_x = 28, origin_y = 32, num_frames = 4 },
+    { x = 0, y = 48, frame_width = 24, frame_height = 48, origin_x = 12, origin_y = 44, num_frames = 4 },
+  },
+}

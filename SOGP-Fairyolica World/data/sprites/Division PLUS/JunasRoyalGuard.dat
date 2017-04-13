@@ -1,0 +1,21 @@
+animation{
+  name = "stopped",
+  src_image = "Division PLUS/JunasRoyalGuard.png",
+  directions = {
+    { x = 0, y = 32, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 30 },
+    { x = 0, y = 64, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 30 },
+    { x = 0, y = 96, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 30 },
+    { x = 0, y = 0, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 30 },
+  },
+}
+animation{
+  name = "walking",
+  src_image = "Division PLUS/JunasRoyalGuard.png",
+  frame_delay = 250,
+  directions = {
+    { x = 0, y = 32, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 30, num_frames = 4 },
+    { x = 0, y = 64, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 30, num_frames = 4 },
+    { x = 0, y = 96, frame_width = 24, frame_height = 32, origin_x = 12, origin_y = 30, num_frames = 4 },
+    { x = 0, y = 0, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 30, num_frames = 4 },
+  },
+}

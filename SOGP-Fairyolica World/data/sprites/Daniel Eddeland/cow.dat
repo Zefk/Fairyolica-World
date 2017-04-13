@@ -1,0 +1,32 @@
+animation{
+  name = "stopped",
+  src_image = "Daniel Eddeland/cow_walk.png",
+  directions = {
+    { x = 0, y = 192, frame_width = 72, frame_height = 48, origin_x = 36, origin_y = 45 },
+    { x = 0, y = 0, frame_width = 32, frame_height = 80, origin_x = 16, origin_y = 77 },
+    { x = 0, y = 144, frame_width = 72, frame_height = 48, origin_x = 36, origin_y = 45 },
+    { x = 0, y = 80, frame_width = 32, frame_height = 64, origin_x = 16, origin_y = 59 },
+  },
+}
+animation{
+  name = "eating",
+  src_image = "Daniel Eddeland/cow_eat.png",
+  frame_delay = 200,
+  directions = {
+    { x = 16, y = 192, frame_width = 72, frame_height = 48, origin_x = 36, origin_y = 45, num_frames = 4 },
+    { x = 24, y = 0, frame_width = 32, frame_height = 80, origin_x = 16, origin_y = 77, num_frames = 4 },
+    { x = 0, y = 80, frame_width = 72, frame_height = 48, origin_x = 36, origin_y = 45, num_frames = 4 },
+    { x = 24, y = 128, frame_width = 32, frame_height = 64, origin_x = 16, origin_y = 59, num_frames = 4 },
+  },
+}
+animation{
+  name = "walking",
+  src_image = "Daniel Eddeland/cow_walk.png",
+  frame_delay = 200,
+  directions = {
+    { x = 0, y = 192, frame_width = 72, frame_height = 48, origin_x = 36, origin_y = 45, num_frames = 4 },
+    { x = 0, y = 0, frame_width = 32, frame_height = 80, origin_x = 16, origin_y = 77, num_frames = 4 },
+    { x = 0, y = 144, frame_width = 72, frame_height = 48, origin_x = 36, origin_y = 45, num_frames = 4 },
+    { x = 0, y = 80, frame_width = 32, frame_height = 64, origin_x = 16, origin_y = 59, num_frames = 4 },
+  },
+}

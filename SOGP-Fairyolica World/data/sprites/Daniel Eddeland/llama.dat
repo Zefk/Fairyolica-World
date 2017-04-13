@@ -1,0 +1,32 @@
+animation{
+  name = "stopped",
+  src_image = "Daniel Eddeland/llama_walk_0.png",
+  directions = {
+    { x = 88, y = 208, frame_width = 56, frame_height = 64, origin_x = 28, origin_y = 64 },
+    { x = 176, y = 0, frame_width = 32, frame_height = 72, origin_x = 16, origin_y = 72 },
+    { x = 88, y = 144, frame_width = 56, frame_height = 64, origin_x = 28, origin_y = 64 },
+    { x = 176, y = 72, frame_width = 32, frame_height = 72, origin_x = 16, origin_y = 72 },
+  },
+}
+animation{
+  name = "eating",
+  src_image = "Daniel Eddeland/llama_eat_0.png",
+  frame_delay = 350,
+  directions = {
+    { x = 16, y = 216, frame_width = 64, frame_height = 64, origin_x = 28, origin_y = 60, num_frames = 4 },
+    { x = 8, y = 0, frame_width = 32, frame_height = 72, origin_x = 16, origin_y = 72, num_frames = 4 },
+    { x = 8, y = 144, frame_width = 64, frame_height = 64, origin_x = 28, origin_y = 60, num_frames = 4 },
+    { x = 8, y = 72, frame_width = 32, frame_height = 72, origin_x = 16, origin_y = 72, num_frames = 4 },
+  },
+}
+animation{
+  name = "walking",
+  src_image = "Daniel Eddeland/llama_walk_0.png",
+  frame_delay = 200,
+  directions = {
+    { x = 88, y = 208, frame_width = 56, frame_height = 64, origin_x = 28, origin_y = 64, num_frames = 4 },
+    { x = 176, y = 0, frame_width = 32, frame_height = 72, origin_x = 16, origin_y = 72, num_frames = 4 },
+    { x = 88, y = 144, frame_width = 56, frame_height = 64, origin_x = 28, origin_y = 64, num_frames = 4 },
+    { x = 176, y = 72, frame_width = 32, frame_height = 72, origin_x = 16, origin_y = 72, num_frames = 4 },
+  },
+}
