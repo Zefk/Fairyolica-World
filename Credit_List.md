@@ -41,6 +41,10 @@ Copyright/Attribution Notice
 
 - "Russpuppy http://russpuppy.com" [would love to hear about your game]
 
+- http://opengameart.org/users/gwes
+
+- Xevin
+
 
 ####[CC-BY 3.0 Credit by their terms]
 
@@ -68,6 +72,14 @@ Copyright/Attribution Notice
 
 - Animated Castle Doors by by Tuomo Untinen
 
+- http://dycha.net
+
+- "Whispers of Avalon Item Icons" by Leonard Pabin
+
+- Heather Lee Harvey , if possible I would also like a link to EmeraldActivities.com & http://opengameart.org/users/emerald
+
+- Lanea Zimmerman
+
 
 ####[CC-BY-SA 3.0 Credit by their terms and share artwork under the same terms]
 
@@ -88,6 +100,12 @@ Copyright/Attribution Notice
 - Zefk (Zane Kukta) <http://zelzec-entertainment.weebly.com/>
 
 - Lanea Zimmerman (AKA Sharm)
+
+- Twitter (@JoeCreates)
+
+- -http://yolcati.deviantart.com/
+
+- 
 
 ####[Free - No real license. They say, "Please let us know by dropping a comment here (though you certainly don’t have to)."]
 
