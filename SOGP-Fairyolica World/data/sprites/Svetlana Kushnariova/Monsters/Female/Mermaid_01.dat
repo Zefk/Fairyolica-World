@@ -1,0 +1,40 @@
+animation{
+  name = "stopped",
+  src_image = "Svetlana Kushnariova/Monsters/Female/Mermaid_01.png",
+  directions = {
+    { x = 0, y = 32, frame_width = 24, frame_height = 32, origin_x = 13, origin_y = 28 },
+    { x = 0, y = 0, frame_width = 24, frame_height = 32, origin_x = 13, origin_y = 28 },
+    { x = 0, y = 96, frame_width = 24, frame_height = 32, origin_x = 13, origin_y = 28 },
+    { x = 0, y = 64, frame_width = 24, frame_height = 32, origin_x = 13, origin_y = 28 },
+  },
+}
+animation{
+  name = "idle",
+  src_image = "Svetlana Kushnariova/Monsters/Female/Mermaid_01.png",
+  directions = {
+    { x = 64, y = 152, frame_width = 32, frame_height = 40, origin_x = 16, origin_y = 20 },
+  },
+}
+animation{
+  name = "swim",
+  src_image = "Svetlana Kushnariova/Monsters/Female/Mermaid_01.png",
+  frame_delay = 200,
+  frame_to_loop_on = 0,
+  directions = {
+    { x = 80, y = 56, frame_width = 48, frame_height = 16, origin_x = 24, origin_y = 16, num_frames = 3 },
+    { x = 80, y = 0, frame_width = 16, frame_height = 56, origin_x = 8, origin_y = 52, num_frames = 3 },
+    { x = 80, y = 120, frame_width = 48, frame_height = 16, origin_x = 24, origin_y = 14, num_frames = 3 },
+    { x = 80, y = 80, frame_width = 16, frame_height = 40, origin_x = 8, origin_y = 38, num_frames = 3 },
+  },
+}
+animation{
+  name = "walking",
+  src_image = "Svetlana Kushnariova/Monsters/Female/Mermaid_01.png",
+  frame_delay = 200,
+  directions = {
+    { x = 0, y = 32, frame_width = 24, frame_height = 32, origin_x = 13, origin_y = 28, num_frames = 3 },
+    { x = 0, y = 0, frame_width = 24, frame_height = 32, origin_x = 13, origin_y = 28, num_frames = 3 },
+    { x = 0, y = 96, frame_width = 24, frame_height = 32, origin_x = 13, origin_y = 28, num_frames = 3 },
+    { x = 0, y = 64, frame_width = 24, frame_height = 32, origin_x = 13, origin_y = 28, num_frames = 3 },
+  },
+}

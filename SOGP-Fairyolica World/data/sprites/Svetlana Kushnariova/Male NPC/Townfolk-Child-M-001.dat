@@ -1,0 +1,21 @@
+animation{
+  name = "stopped",
+  src_image = "Svetlana Kushnariova/Male NPC/Townfolk-Child-M-001.png",
+  directions = {
+    { x = 0, y = 24, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 24 },
+    { x = 0, y = 0, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 24 },
+    { x = 0, y = 72, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 24 },
+    { x = 0, y = 48, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 24 },
+  },
+}
+animation{
+  name = "walking",
+  src_image = "Svetlana Kushnariova/Male NPC/Townfolk-Child-M-001.png",
+  frame_delay = 200,
+  directions = {
+    { x = 0, y = 24, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 24, num_frames = 3 },
+    { x = 0, y = 0, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 24, num_frames = 3 },
+    { x = 0, y = 72, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 24, num_frames = 3 },
+    { x = 0, y = 48, frame_width = 16, frame_height = 24, origin_x = 8, origin_y = 24, num_frames = 3 },
+  },
+}
