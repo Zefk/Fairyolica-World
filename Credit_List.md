@@ -80,6 +80,12 @@ Copyright/Attribution Notice
 
 - Lanea Zimmerman
 
+- Erbarlow
+
+- Division PLUS <http://opengameart.org/users/division-plus> (Let me know when you release your game.)
+
+- "DENZI Room's pixel art (published at http://www3.wind.ne.jp/DENZI/diary/)
+
 
 ####[CC-BY-SA 3.0 Credit by their terms and share artwork under the same terms]
 
@@ -105,7 +111,15 @@ Copyright/Attribution Notice
 
 - -http://yolcati.deviantart.com/
 
-- 
+- www.vedoque.com
+
+- Svetlana Kushnariova and give my email address, lana-chan@yandex.ru
+
+- "demon_bat" by Stephen Challener (Redshrike), hosted/commissioned by OpenGameArt.org
+
+- Art in folder "SOGP-Fairyolica World/data/sprites/Charles Gabriel" by Charles Gabriel. Commissioned by OpenGameArt.org (http://opengameart.org)
+
+- Daniel Eddeland, and link to opengameart (preferably this submission). <http://opengameart.org/content/lpc-style-farm-animals>
 
 ####[Free - No real license. They say, "Please let us know by dropping a comment here (though you certainly don’t have to)."]
 
