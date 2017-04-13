@@ -1,0 +1,21 @@
+animation{
+  name = "stopped",
+  src_image = "Erbarlow/Conjurer/Male/Blue_male.png",
+  directions = {
+    { x = 0, y = 64, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 32 },
+    { x = 0, y = 96, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 32 },
+    { x = 0, y = 32, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 32 },
+    { x = 0, y = 0, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 32 },
+  },
+}
+animation{
+  name = "walking",
+  src_image = "Erbarlow/Conjurer/Male/Blue_male.png",
+  frame_delay = 200,
+  directions = {
+    { x = 0, y = 64, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 32, num_frames = 3 },
+    { x = 0, y = 96, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 32, num_frames = 3 },
+    { x = 0, y = 32, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 32, num_frames = 3 },
+    { x = 0, y = 0, frame_width = 32, frame_height = 32, origin_x = 16, origin_y = 32, num_frames = 3 },
+  },
+}
