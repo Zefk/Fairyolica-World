@@ -4,7 +4,6 @@ The Fariryolica world tileset is mostly under CC-BY-SA 3.0. Unless marked otherw
 
 ### About:
 
-============================================================================================================================
 1.The bullet "•" means it is a person and the way they want to be credited.
 
 2.This is organized by license type. CC0, CC-BY 3.0, CC-BY-SA 3.0.
