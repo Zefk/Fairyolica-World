@@ -1,8 +1,8 @@
-##Faryolica World Credits:
+## Faryolica World Credits:
 
 The Fariryolica world tileset is mostly under CC-BY-SA 3.0. Unless marked otherwise here. Some sprites are just free and I do not have the rights to change their license, but they can still be in the Fairyolica World pack.
 
-###About:
+### About:
 
 ============================================================================================================================
 1.The bullet "•" means it is a person and the way they want to be credited.
@@ -17,11 +17,11 @@ The Fariryolica world tileset is mostly under CC-BY-SA 3.0. Unless marked otherw
 
 6.I refined this list a little. 11-14-16 [Novemeber 14th, 2016]
 
-###Graphics Credits:
+### Graphics Credits:
 
 Copyright/Attribution Notice
 
-####[CC0 Public Domain]
+#### [CC0 Public Domain]
 
 - Jetrel <http://www.frogatto.com/>
 
@@ -46,7 +46,7 @@ Copyright/Attribution Notice
 - Xevin
 
 
-####[CC-BY 3.0 Credit by their terms]
+#### [CC-BY 3.0 Credit by their terms]
 
 - Stephen Challener and the Open Surge team ( http://opensnc.sourceforge.net), hosted by OpenGameArt.org
 
@@ -87,7 +87,7 @@ Copyright/Attribution Notice
 - "DENZI Room's pixel art (published at http://www3.wind.ne.jp/DENZI/diary/)
 
 
-####[CC-BY-SA 3.0 Credit by their terms and share artwork under the same terms]
+#### [CC-BY-SA 3.0 Credit by their terms and share artwork under the same terms]
 
 - interdimensional_ <http://interdimensional.space/>
 
@@ -121,7 +121,7 @@ Copyright/Attribution Notice
 
 - Daniel Eddeland, and link to opengameart (preferably this submission). <http://opengameart.org/content/lpc-style-farm-animals>
 
-####[Free - No real license. They say, "Please let us know by dropping a comment here (though you certainly don’t have to)."]
+#### [Free - No real license. They say, "Please let us know by dropping a comment here (though you certainly don’t have to)."]
 
 - Urbansquall <http://web.archive.org/web/20110225070311/http://www.gamepoetry.com/blog/2008/06/27/free-rpg-tilesheets/>
 
@@ -129,7 +129,7 @@ Copyright/Attribution Notice
 
 Copyright/Attribution Notice
 
-####[CC-BY 3.0 Credit by their terms]
+#### [CC-BY 3.0 Credit by their terms]
 
 - copyc4t (Paolo D'Emilio) <http://opengameart.org/users/copyc4t>
 - Elerya <http://opengameart.org/users/elerya>
@@ -137,12 +137,12 @@ Copyright/Attribution Notice
 - Alexandr Zhelanov, https://soundcloud.com/alexandr-zhelanov
 - Cleyton R. Xavier - http://opengameart.org/users/doppelganger
 
-####[CC0 Public Domain]
+#### [CC0 Public Domain]
 
 - Alexander Ehlers <http://opengameart.org/users/tricksntraps>
 - Controllerhead <http://opengameart.org/users/controllerhead>
 
-####[CC-BY-SA 3.0 Credit by their terms and share artwork under the same terms]
+#### [CC-BY-SA 3.0 Credit by their terms and share artwork under the same terms]
 
 - Aosi <http://momentsofelation.wordpress.com/>
 - Zefk (Zane Kukta) <http://zelzec-entertainment.weebly.com/>
