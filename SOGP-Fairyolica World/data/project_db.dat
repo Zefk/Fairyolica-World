@@ -1,9 +1,76 @@
 map{ id = "Inside store", description = "Already built tiles" }
 
-tileset{ id = "DawnBringer 16 color", description = "DawnBringer 16 color" }
 tileset{ id = "Fairyolica World", description = "Faryolica World - A light world like tileset" }
-tileset{ id = "light_world", description = "Light it up!" }
 
+sprite{ id = "Charles Gabriel/Female/Aegla", description = "Aegla" }
+sprite{ id = "Charles Gabriel/Female/Amel", description = "Amel" }
+sprite{ id = "Charles Gabriel/Female/Cele", description = "Cele" }
+sprite{ id = "Charles Gabriel/Female/Dolla", description = "Dolla" }
+sprite{ id = "Charles Gabriel/Female/Drela", description = "Drela" }
+sprite{ id = "Charles Gabriel/Female/Flaxa", description = "Flaxa" }
+sprite{ id = "Charles Gabriel/Female/Furla", description = "Furla" }
+sprite{ id = "Charles Gabriel/Female/Gira", description = "Gira" }
+sprite{ id = "Charles Gabriel/Female/Guna", description = "Guna" }
+sprite{ id = "Charles Gabriel/Female/Helaga", description = "Helaga" }
+sprite{ id = "Charles Gabriel/Female/Imi", description = "Imi" }
+sprite{ id = "Charles Gabriel/Female/Iorra", description = "Iorra" }
+sprite{ id = "Charles Gabriel/Female/Losfanla", description = "Losfanla" }
+sprite{ id = "Charles Gabriel/Female/Mallia", description = "Mallia" }
+sprite{ id = "Charles Gabriel/Female/Mamotha", description = "Mamotha" }
+sprite{ id = "Charles Gabriel/Female/Meleca", description = "Meleca" }
+sprite{ id = "Charles Gabriel/Female/Reslia", description = "Reslia" }
+sprite{ id = "Charles Gabriel/Female/Rodra", description = "Rodra" }
+sprite{ id = "Charles Gabriel/Female/Sucia", description = "Sucia" }
+sprite{ id = "Charles Gabriel/Female/Wetha", description = "Wetha" }
+sprite{ id = "Charles Gabriel/Female/Yinga", description = "Yinga" }
+sprite{ id = "Charles Gabriel/Female/Zomla", description = "Zomla" }
+sprite{ id = "Charles Gabriel/Female/Zulka", description = "Zulka" }
+sprite{ id = "Charles Gabriel/Female/Zultime", description = "Zultime" }
+sprite{ id = "Charles Gabriel/Halloween/Frankenstein", description = "Frankenstein" }
+sprite{ id = "Charles Gabriel/Halloween/Mummy", description = "Mummy" }
+sprite{ id = "Charles Gabriel/Halloween/Sea_monster", description = "Sea_monster" }
+sprite{ id = "Charles Gabriel/Halloween/Vampire", description = "Vampire" }
+sprite{ id = "Charles Gabriel/Halloween/Warewolf", description = "Warewolf" }
+sprite{ id = "Charles Gabriel/Male/Borasor", description = "Borasor" }
+sprite{ id = "Charles Gabriel/Male/Darkra", description = "Darkra" }
+sprite{ id = "Charles Gabriel/Male/Dathgag", description = "Dathgag" }
+sprite{ id = "Charles Gabriel/Male/Derra", description = "Derra" }
+sprite{ id = "Charles Gabriel/Male/Dhonror", description = "Dhonror" }
+sprite{ id = "Charles Gabriel/Male/Dirimor", description = "Dirimor" }
+sprite{ id = "Charles Gabriel/Male/Drinrond", description = "Drinrond" }
+sprite{ id = "Charles Gabriel/Male/Dwain", description = "Dwain" }
+sprite{ id = "Charles Gabriel/Male/Elran", description = "Elran" }
+sprite{ id = "Charles Gabriel/Male/Galad", description = "Galad" }
+sprite{ id = "Charles Gabriel/Male/Kazum", description = "Kazum" }
+sprite{ id = "Charles Gabriel/Male/Lorwing", description = "Lorwing" }
+sprite{ id = "Charles Gabriel/Male/Marmath", description = "Marmath" }
+sprite{ id = "Charles Gabriel/Male/Medral", description = "Medral" }
+sprite{ id = "Charles Gabriel/Male/Mogoth", description = "Mogoth" }
+sprite{ id = "Charles Gabriel/Male/Naxder", description = "Naxder" }
+sprite{ id = "Charles Gabriel/Male/Randir", description = "Randir" }
+sprite{ id = "Charles Gabriel/Male/Rion", description = "Rion" }
+sprite{ id = "Charles Gabriel/Male/Rodphor", description = "Rodphor" }
+sprite{ id = "Charles Gabriel/Male/Rork", description = "Rork" }
+sprite{ id = "Charles Gabriel/Male/Ruder", description = "Ruder" }
+sprite{ id = "Charles Gabriel/Male/Thalran", description = "Thalran" }
+sprite{ id = "Charles Gabriel/Male/Thath", description = "Thath" }
+sprite{ id = "Charles Gabriel/Male/Thuin", description = "Thuin" }
+sprite{ id = "Charles Gabriel/Male/Vodrel", description = "Vodrel" }
+sprite{ id = "Charles Gabriel/Male/Yoshi", description = "Yoshi" }
+sprite{ id = "Charles Gabriel/Male/Zenior", description = "Zenior" }
+sprite{ id = "Charles Gabriel/Male/swim_dude", description = "swim_dude" }
+sprite{ id = "Charles Gabriel/Zombie/Female/Zogmla", description = "Zogmla" }
+sprite{ id = "Charles Gabriel/Zombie/Female/Zomera", description = "Zomera" }
+sprite{ id = "Charles Gabriel/Zombie/Male/Iebmoz", description = "Iebmoz" }
+sprite{ id = "Charles Gabriel/Zombie/Male/Zergor", description = "Zergor" }
+sprite{ id = "Charles Gabriel/Zombie/Male/Zikorm", description = "Zikorm" }
+sprite{ id = "Charles Gabriel/Zombie/Male/Zogarg", description = "Zogarg" }
+sprite{ id = "Charles Gabriel/Zombie/Plain Zombie/Zombie_1", description = "Zombie_1" }
+sprite{ id = "Charles Gabriel/Zombie/Plain Zombie/Zombie_2", description = "Zombie_2" }
+sprite{ id = "Charles Gabriel/Zombie/Plain Zombie/Zombie_3", description = "Zombie_3" }
+sprite{ id = "Charles Gabriel/Zombie/Plain_Zombie/Zombie_1", description = "Zombie_1" }
+sprite{ id = "Charles Gabriel/Zombie/Plain_Zombie/Zombie_2", description = "Zombie_2" }
+sprite{ id = "Charles Gabriel/Zombie/Plain_Zombie/Zombie_3", description = "Zombie_3" }
 sprite{ id = "Critter Pack/Bat", description = "Bat" }
 sprite{ id = "Critter Pack/Chicken", description = "Chicken" }
 sprite{ id = "Critter Pack/Monster", description = "Monster" }
@@ -12,6 +79,127 @@ sprite{ id = "Critter Pack/Rat", description = "Rat" }
 sprite{ id = "Critter Pack/Skeleton", description = "Skeleton" }
 sprite{ id = "Critter Pack/Spider", description = "Spider" }
 sprite{ id = "Critter Pack/WhiteSlime", description = "WhiteSlime" }
+sprite{ id = "DENZI/Chiyo", description = "Chiyo" }
+sprite{ id = "DENZI/Darint", description = "DENZI/Darint" }
+sprite{ id = "DENZI/Emiko", description = "DENZI/Emiko" }
+sprite{ id = "DENZI/Fujiko", description = "DENZI/Fujiko" }
+sprite{ id = "DENZI/Gistoph", description = "DENZI/Gistoph" }
+sprite{ id = "DENZI/Hina", description = "DENZI/Hina" }
+sprite{ id = "DENZI/Mapika", description = "DENZI/Mapika" }
+sprite{ id = "DENZI/Momo", description = "DENZI/Momo" }
+sprite{ id = "DENZI/Nozomi", description = "DENZI/Nozomi" }
+sprite{ id = "DENZI/Rena", description = "DENZI/Rena" }
+sprite{ id = "DENZI/Runa", description = "DENZI/Runa" }
+sprite{ id = "DENZI/Ruri", description = "DENZI/Ruri" }
+sprite{ id = "DENZI/Teiko", description = "DENZI/Teiko" }
+sprite{ id = "DENZI/Teyana", description = "DENZI/Teyana" }
+sprite{ id = "DENZI/Yukie", description = "DENZI/Yukie" }
+sprite{ id = "DENZI/Yurina", description = "DENZI/Yurina" }
+sprite{ id = "Daniel Eddeland/chicken", description = "Chicken" }
+sprite{ id = "Daniel Eddeland/cow", description = "Cow" }
+sprite{ id = "Daniel Eddeland/llama", description = "Daniel Eddeland/llama" }
+sprite{ id = "Daniel Eddeland/pig", description = "Pig" }
+sprite{ id = "Daniel Eddeland/sheep", description = "Sheep" }
+sprite{ id = "Division PLUS/Candle", description = "Candle" }
+sprite{ id = "Division PLUS/JunasGuard", description = "Division PLUS/JunasGuard" }
+sprite{ id = "Division PLUS/JunasRoyalGuard", description = "Division PLUS/JunasRoyalGuard" }
+sprite{ id = "Division PLUS/MoldySign", description = "Division PLUS/MoldySign" }
+sprite{ id = "Division PLUS/SnowySign", description = "SnowySign" }
+sprite{ id = "Division PLUS/TrainingDummy", description = "TrainingDummy" }
+sprite{ id = "Division PLUS/WallCandle", description = "WallCandle" }
+sprite{ id = "Erbarlow/Bard/Female/Blue_female", description = "Blue Female" }
+sprite{ id = "Erbarlow/Bard/Female/Orange_female", description = "Orange Female" }
+sprite{ id = "Erbarlow/Bard/Female/Pink_female", description = "Pink Female" }
+sprite{ id = "Erbarlow/Bard/Female/green_female", description = "Green Female" }
+sprite{ id = "Erbarlow/Bard/Male/Blue_male", description = "Blue Male" }
+sprite{ id = "Erbarlow/Bard/Male/Brown_male", description = "Brown Male" }
+sprite{ id = "Erbarlow/Bard/Male/Green_male", description = "Green Male" }
+sprite{ id = "Erbarlow/Bard/Male/Orange_male", description = "Orange Male" }
+sprite{ id = "Erbarlow/Conjurer/Female/Blue_female", description = "Blue Female" }
+sprite{ id = "Erbarlow/Conjurer/Female/Orange_female", description = "Orange Female" }
+sprite{ id = "Erbarlow/Conjurer/Female/Pink_female", description = "Pink Female" }
+sprite{ id = "Erbarlow/Conjurer/Female/green_female", description = "Green Female" }
+sprite{ id = "Erbarlow/Conjurer/Male/Blue_male", description = "Blue Male" }
+sprite{ id = "Erbarlow/Conjurer/Male/Brown_male", description = "Brown Male" }
+sprite{ id = "Erbarlow/Conjurer/Male/Green_male", description = "Green Male" }
+sprite{ id = "Erbarlow/Conjurer/Male/Orange_male", description = "Orange Male" }
+sprite{ id = "Erbarlow/Devout/Female/Blue_female", description = "Blue_female" }
+sprite{ id = "Erbarlow/Devout/Female/Orange_female", description = "Orange_female" }
+sprite{ id = "Erbarlow/Devout/Female/Pink_female", description = "Pink_female" }
+sprite{ id = "Erbarlow/Devout/Female/green_female", description = "Green_female" }
+sprite{ id = "Erbarlow/Devout/Male/Blue_male", description = "Blue_male" }
+sprite{ id = "Erbarlow/Devout/Male/Brown_male", description = "Brown_male" }
+sprite{ id = "Erbarlow/Devout/Male/Green_male", description = "Green_male" }
+sprite{ id = "Erbarlow/Devout/Male/Orange_male", description = "Orange_male" }
+sprite{ id = "Erbarlow/Scout/Female/Blue_female", description = "Blue_female" }
+sprite{ id = "Erbarlow/Scout/Female/Orange_female", description = "Orange_female" }
+sprite{ id = "Erbarlow/Scout/Female/Pink_female", description = "Pink_female" }
+sprite{ id = "Erbarlow/Scout/Female/green_female", description = "green_female" }
+sprite{ id = "Erbarlow/Scout/Male/Blue_male", description = "Blue_male" }
+sprite{ id = "Erbarlow/Scout/Male/Brown_male", description = "Brown_male" }
+sprite{ id = "Erbarlow/Scout/Male/Green_male", description = "Green_male" }
+sprite{ id = "Erbarlow/Scout/Male/Orange_male", description = "Orange_male" }
+sprite{ id = "Erbarlow/Soldier/Female/Blue_female", description = "Blue_female" }
+sprite{ id = "Erbarlow/Soldier/Female/Orange_female", description = "Orange_female" }
+sprite{ id = "Erbarlow/Soldier/Female/Pink_female", description = "Pink_female" }
+sprite{ id = "Erbarlow/Soldier/Female/green_female", description = "Green_female" }
+sprite{ id = "Erbarlow/Soldier/Male/Blue_male", description = "Blue_male" }
+sprite{ id = "Erbarlow/Soldier/Male/Brown_male", description = "Brown_male" }
+sprite{ id = "Erbarlow/Soldier/Male/Green_male", description = "Green_male" }
+sprite{ id = "Erbarlow/Soldier/Male/Orange_male", description = "Orange_male" }
+sprite{ id = "Svetlana Kushnariova/Female NPC/Aristocrate-F-01", description = "Aristocrate-F-01" }
+sprite{ id = "Svetlana Kushnariova/Female NPC/Aristocrate-F-02", description = "Aristocrate-F-02" }
+sprite{ id = "Svetlana Kushnariova/Female NPC/Aristocrate-F-03", description = "Aristocrate-F-03" }
+sprite{ id = "Svetlana Kushnariova/Female NPC/Clown_01", description = "Clown_01" }
+sprite{ id = "Svetlana Kushnariova/Female NPC/Cultist-01", description = "Svetlana Kushnariova/Female NPC/Cultist-01" }
+sprite{ id = "Svetlana Kushnariova/Female NPC/Dancer-F-01", description = "Dancer-F-01" }
+sprite{ id = "Svetlana Kushnariova/Female NPC/NPC_F-(Amanda)", description = "NPC_F-(Amanda)" }
+sprite{ id = "Svetlana Kushnariova/Female NPC/Pirate-F-01", description = "Pirate-F-01" }
+sprite{ id = "Svetlana Kushnariova/Female NPC/Princess-01", description = "Princess-01" }
+sprite{ id = "Svetlana Kushnariova/Female NPC/Townfolk-Adult-F-001", description = "Townfolk-Adult-F-001" }
+sprite{ id = "Svetlana Kushnariova/Female NPC/Townfolk-Adult-F-002", description = "Townfolk-Adult-F-002" }
+sprite{ id = "Svetlana Kushnariova/Female NPC/Townfolk-Adult-F-003", description = "Townfolk-Adult-F-003" }
+sprite{ id = "Svetlana Kushnariova/Female NPC/Townfolk-Adult-F-004", description = "Townfolk-Adult-F-004" }
+sprite{ id = "Svetlana Kushnariova/Female NPC/Townfolk-Adult-F-005", description = "Townfolk-Adult-F-005" }
+sprite{ id = "Svetlana Kushnariova/Female NPC/Townfolk-Adult-F-006", description = "Townfolk-Adult-F-006" }
+sprite{ id = "Svetlana Kushnariova/Female NPC/Townfolk-Child-F-001", description = "Townfolk-Child-F-001" }
+sprite{ id = "Svetlana Kushnariova/Female NPC/Townfolk-Child-F-002", description = "Townfolk-Child-F-002" }
+sprite{ id = "Svetlana Kushnariova/Female NPC/Townfolk-Old-F-001", description = "Townfolk-Old-F-001" }
+sprite{ id = "Svetlana Kushnariova/Heroes/Female/Fighter-F-01", description = "Fighter-F-01" }
+sprite{ id = "Svetlana Kushnariova/Heroes/Female/Fighter-F-02", description = "Fighter-F-02" }
+sprite{ id = "Svetlana Kushnariova/Heroes/Female/Healer-F-01", description = "Healer-F-01" }
+sprite{ id = "Svetlana Kushnariova/Heroes/Female/Healer-M-01", description = "Healer-M-01" }
+sprite{ id = "Svetlana Kushnariova/Heroes/Female/Mage-F-01", description = "Mage-F-01" }
+sprite{ id = "Svetlana Kushnariova/Heroes/Female/Ranger-F-01", description = "Ranger-F-01" }
+sprite{ id = "Svetlana Kushnariova/Heroes/Male/Fighter-M-01", description = "Fighter-M-01" }
+sprite{ id = "Svetlana Kushnariova/Heroes/Male/Fighter-M-02", description = "Fighter-M-02" }
+sprite{ id = "Svetlana Kushnariova/Heroes/Male/Mage-M-01", description = "Mage-M-01" }
+sprite{ id = "Svetlana Kushnariova/Heroes/Male/Ranger-M-01", description = "Ranger-M-01" }
+sprite{ id = "Svetlana Kushnariova/Male NPC/Bard-M-01", description = "Bard-M-01" }
+sprite{ id = "Svetlana Kushnariova/Male NPC/King_01", description = "King_01" }
+sprite{ id = "Svetlana Kushnariova/Male NPC/Mask-M-01", description = "Mask-M-01" }
+sprite{ id = "Svetlana Kushnariova/Male NPC/Prince-01", description = "Prince-01" }
+sprite{ id = "Svetlana Kushnariova/Male NPC/Snow-M-01", description = "Snow-M-01" }
+sprite{ id = "Svetlana Kushnariova/Male NPC/Townfolk-Adult-M-001", description = "Townfolk-Adult-M-001" }
+sprite{ id = "Svetlana Kushnariova/Male NPC/Townfolk-Adult-M-002", description = "Townfolk-Adult-M-002" }
+sprite{ id = "Svetlana Kushnariova/Male NPC/Townfolk-Adult-M-003", description = "Townfolk-Adult-M-003" }
+sprite{ id = "Svetlana Kushnariova/Male NPC/Townfolk-Adult-M-004", description = "Townfolk-Adult-M-004" }
+sprite{ id = "Svetlana Kushnariova/Male NPC/Townfolk-Adult-M-005", description = "Townfolk-Adult-M-005" }
+sprite{ id = "Svetlana Kushnariova/Male NPC/Townfolk-Adult-M-006", description = "Townfolk-Adult-M-006" }
+sprite{ id = "Svetlana Kushnariova/Male NPC/Townfolk-Adult-M-007", description = "Townfolk-Adult-M-007" }
+sprite{ id = "Svetlana Kushnariova/Male NPC/Townfolk-Adult-M-008", description = "Townfolk-Adult-M-008" }
+sprite{ id = "Svetlana Kushnariova/Male NPC/Townfolk-Adult-M-009", description = "Townfolk-Adult-M-009" }
+sprite{ id = "Svetlana Kushnariova/Male NPC/Townfolk-Child-M-001", description = "Townfolk-Child-M-001" }
+sprite{ id = "Svetlana Kushnariova/Male NPC/Townfolk-Child-M-002", description = "Townfolk-Child-M-002" }
+sprite{ id = "Svetlana Kushnariova/Male NPC/Townfolk-Old-M-001", description = "Townfolk-Old-M-001" }
+sprite{ id = "Svetlana Kushnariova/Male NPC/Townfolk-Old-M-002", description = "Townfolk-Old-M-002" }
+sprite{ id = "Svetlana Kushnariova/Monsters/Female/Flower-01", description = "Flower-01" }
+sprite{ id = "Svetlana Kushnariova/Monsters/Female/Mermaid_01", description = "Mermaid_01" }
+sprite{ id = "Svetlana Kushnariova/Monsters/Male/GrassSpirit-01", description = "GrassSpirit-01" }
+sprite{ id = "Svetlana Kushnariova/Monsters/Other/Mushroom-01", description = "Mushroom-01" }
+sprite{ id = "Svetlana Kushnariova/Monsters/Other/Poprigunchik_01", description = "Poprigunchik_01" }
+sprite{ id = "Svetlana Kushnariova/Monsters/Other/Seed-01", description = "Seed-01" }
+sprite{ id = "Svetlana Kushnariova/Monsters/Other/Shrump-01", description = "Shrump-01" }
 sprite{ id = "enemies/enemy_killed", description = "Enemy killed" }
 sprite{ id = "entities/arrow", description = "Arrow" }
 sprite{ id = "entities/block", description = "Block" }
@@ -35,6 +223,7 @@ sprite{ id = "hero/sword_stars1", description = "Hero sword stars 1" }
 sprite{ id = "hero/trail", description = "Hero trail" }
 sprite{ id = "hero/tunic1", description = "Hero tunic 1" }
 sprite{ id = "menus/solarus_logo", description = "Solarus logo" }
+sprite{ id = "redshrike/demon_bat", description = "Demon Bat" }
 sprite{ id = "urbansquall/FemaleOrange", description = "FemaleOrange" }
 sprite{ id = "urbansquall/FemalePink", description = "FemalePink" }
 sprite{ id = "urbansquall/KingDarfane", description = "KingDarfane" }
@@ -42,6 +231,13 @@ sprite{ id = "urbansquall/KnightAni", description = "KnightAni" }
 sprite{ id = "urbansquall/PrincessGatina", description = "PrincessGatina" }
 sprite{ id = "urbansquall/PrincessRani", description = "PrincessRani" }
 sprite{ id = "urbansquall/WizardGafron", description = "WizardGafron" }
+sprite{ id = "vedoque/Flat_fish_2", description = "Flat Fish 2" }
+sprite{ id = "vedoque/Snake", description = "Snake" }
+sprite{ id = "vedoque/flat_fish", description = "Flat Fish" }
+sprite{ id = "vedoque/frog", description = "Frog" }
+sprite{ id = "vedoque/spotted_fish", description = "Spotted Fish" }
+sprite{ id = "vedoque/spotted_red_fish", description = "Spotted Red Fish" }
+sprite{ id = "vedoque/striped_fish", description = "Striped Fish" }
 
 music{ id = "Open Source Pack/001Alexander Ehlers - Free Music Pack/Alexander_Ehlers_-_Doomed", description = "Doomed - Music by Alexander Ehlers" }
 music{ id = "Open Source Pack/001Alexander Ehlers - Free Music Pack/Alexander_Ehlers_-_Flags", description = "Flags - Music by Alexander Ehlers" }
@@ -614,12 +810,26 @@ sound{ id = "wrong", description = "wrong" }
 language{ id = "en", description = "English" }
 
 font{ id = "8_bit", description = "8_bit" }
+font{ id = "BitScript/BitScript", description = "BitScript/BitScript" }
+font{ id = "Boxy Bold/Boxy-Bold-Font_0/Boxy-Bold", description = "Boxy Bold/Boxy-Bold-Font_0/Boxy-Bold" }
+font{ id = "Boxy-Bold/Boxy-Bold", description = "Boxy-Bold/Boxy-Bold" }
+font{ id = "Min/Minimal3x5", description = "Min/Minimal3x5" }
+font{ id = "Min/Minimal5x5", description = "Min/Minimal5x5" }
+font{ id = "Min/Minimal5x7", description = "Min/Minimal5x7" }
 font{ id = "Pix3M/Alagard", description = "Pix3M/Alagard" }
 font{ id = "Pix3M/Romulus", description = "Pix3M/Romulus" }
 font{ id = "Playtime/PlaytimeOblique", description = "Playtime/PlaytimeOblique" }
 font{ id = "Playtime/PlaytimeWithHotToddies3D", description = "Playtime/PlaytimeWithHotToddies3D" }
 font{ id = "Playtime/playtime", description = "Playtime/playtime" }
 font{ id = "goudy-bookletter/goudy_bookletter_1911-webfont", description = "goudy-bookletter/goudy_bookletter_1911-webfont" }
+font{ id = "grafx/Berlin", description = "grafx/Berlin" }
+font{ id = "grafx/London", description = "grafx/London" }
+font{ id = "grafx/Moscow", description = "grafx/Moscow" }
+font{ id = "grafx/Paris", description = "grafx/Paris" }
+font{ id = "grafx/Techno", description = "grafx/Techno" }
+font{ id = "grafx/Tokyo", description = "grafx/Tokyo" }
+font{ id = "grafx/TrioDX", description = "grafx/TrioDX" }
+font{ id = "grafx/TrioDX2", description = "grafx/TrioDX2" }
 font{ id = "junction/junction-regular", description = "junction/junction-regular" }
 font{ id = "minecraftia", description = "minecraftia" }
 font{ id = "prociono/Prociono", description = "prociono/Prociono" }
