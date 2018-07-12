@@ -1,0 +1,34 @@
+animation{
+  name = "door",
+  src_image = "entities/doors.png",
+  directions = {
+    { x = 0, y = 0, frame_width = 24, frame_height = 24, origin_x = 12, origin_y = 24 },
+    { x = 24, y = 0, frame_width = 24, frame_height = 24, origin_x = 12, origin_y = 24 },
+    { x = 48, y = 0, frame_width = 24, frame_height = 24, origin_x = 12, origin_y = 24 },
+    { x = 72, y = 0, frame_width = 24, frame_height = 24, origin_x = 12, origin_y = 24 },
+  },
+}
+animation{
+  name = "door_2",
+  src_image = "entities/doors.png",
+  directions = {
+    { x = 0, y = 32, frame_width = 24, frame_height = 24, origin_x = 12, origin_y = 24 },
+    { x = 24, y = 32, frame_width = 24, frame_height = 24, origin_x = 12, origin_y = 24 },
+  },
+}
+animation{
+  name = "door_3",
+  src_image = "entities/doors.png",
+  directions = {
+    { x = 48, y = 32, frame_width = 24, frame_height = 24, origin_x = 12, origin_y = 24 },
+    { x = 72, y = 32, frame_width = 24, frame_height = 24, origin_x = 12, origin_y = 24 },
+  },
+}
+animation{
+  name = "door_4",
+  src_image = "entities/doors.png",
+  directions = {
+    { x = 0, y = 56, frame_width = 24, frame_height = 24, origin_x = 12, origin_y = 24 },
+    { x = 24, y = 56, frame_width = 24, frame_height = 24, origin_x = 12, origin_y = 24 },
+  },
+}
