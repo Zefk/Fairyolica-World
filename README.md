@@ -22,4 +22,4 @@ https://github.com/Zefk/Fairyolica-World/issues
 
 # Outside/Exterior
 
-![Fairyolica World Progress](https://github.com/Zefk/Fairyolica-World/blob/master/SOGP-Fairyolica%20World/data/tilesets/Fairyolica%20World.tiles.png) 
+![Fairyolica World Progress](https://github.com/Zefk/Fairyolica-World/raw/master/SOGP-Fairyolica%20World/data/tilesets/Fairyolica%20World.tiles.png) 
