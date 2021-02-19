@@ -144,5 +144,5 @@ Copyright/Attribution Notice
 #### [CC-BY-SA 3.0 Credit by their terms and share artwork under the same terms]
 
 - Aosi <http://momentsofelation.wordpress.com/>
-- Zefk (Zane Kukta) <http://zelzec-entertainment.weebly.com/>
+- Zefk (Zane Kukta) <https://zefk-design.weebly.com/>
 
